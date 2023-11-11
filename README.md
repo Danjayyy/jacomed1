@@ -1,2 +1,0 @@
-# jacomed1
-weborgraphy
